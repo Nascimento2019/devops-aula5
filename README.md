@@ -3,3 +3,5 @@
 Gangues de Nova York
 Senhor dos Anéis
 Os Vingadores
+Armagedon
+Spider Man
