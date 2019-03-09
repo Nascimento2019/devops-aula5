@@ -1,5 +1,5 @@
 <ul>
-<li>Resident Evil 7</li><br>
-<li>The Wicher 3</li><br>
-<li>The Last Of Us<li><br>
+<li>Resident Evil 7</li>
+<li>The Wicher 3</li>
+<li>The Last Of Us</li>
 <ul>
